@@ -39,7 +39,7 @@ npm run ipl
 **7: Start server**
 
 ```
-npm run start
+npm run start 
 ```
 
 **8: Visualize results on your browser**
@@ -69,5 +69,4 @@ Open http://127.0.0.1:8080
 3. For the year 2016, plot the extra runs conceded by each team.
 4. For the year 2015, plot the top 10 economical bowlers along with their economy rates.
 5. Discuss a "Story" you want to tell with the given data.
-# IPL_Data_Visualization
 # IPL2
